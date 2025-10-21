@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Day la test haii
+=======
+Day la test hai
+>>>>>>> nhanhB
 Hello 2
