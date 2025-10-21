@@ -4,3 +4,4 @@ Day la test mott
 Day la test mot
 >>>>>>> nhanhB
 Hello 1
+Them noi dung o test 1 nhanhA
